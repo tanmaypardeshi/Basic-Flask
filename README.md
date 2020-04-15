@@ -1,8 +1,8 @@
 # Basic Flask Blog website with authentication, CRUD, etc.
 
-**Python version: python 3.7**
-**Flask version: 1.1.2**
-**Front end: Using HTML5, CSS3 and the Twitter Bootstrap Framework**
+**Python version: python 3.7**<br>
+**Flask version: 1.1.2**<br>
+**Front end: Using HTML5, CSS3 and the Twitter Bootstrap Framework**<br>
 
 ## To clone the repository:<br>
 **git clone https://www.github.com/tanmaypardeshi/Basic-Flask.git**
