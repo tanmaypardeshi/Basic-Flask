@@ -4,7 +4,8 @@
 **Flask version: 1.1.2**
 **Front end: Using HTML5, CSS3 and the Twitter Bootstrap Framework
 
-## To clone the repository: git clone https://www.github.com/tanmaypardeshi/Basic-Flask.git
+## To clone the repository:<br>
+**git clone https://www.github.com/tanmaypardeshi/Basic-Flask.git
 
 ### Steps to run
 
