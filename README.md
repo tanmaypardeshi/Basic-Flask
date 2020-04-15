@@ -7,6 +7,10 @@
 ## To clone the repository:<br>
 **git clone https://www.github.com/tanmaypardeshi/Basic-Flask.git**
 
+### To install pipenv
+1. If you don't have pip installed, use <i>**sudo apt install python3-pip**</i>
+2. If you have pip installed, use <i>**pip3 install pipenv**</i>
+
 ### Steps to run
 
 1. Open project folder and run command <i>**pipenv shell**</i>
