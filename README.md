@@ -2,7 +2,7 @@
 
 **Python version: python 3.7**
 **Flask version: 1.1.2**
-**Front end: Using HTML5, CSS3 and the Twitter Bootstrap Framework
+**Front end: Using HTML5, CSS3 and the Twitter Bootstrap Framework**
 
 ## To clone the repository:<br>
 **git clone https://www.github.com/tanmaypardeshi/Basic-Flask.git**
