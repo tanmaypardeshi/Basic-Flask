@@ -14,7 +14,6 @@
 ### Steps to run
 
 1. Open project folder and run command <i>**pipenv shell**</i>
-2. Run <i>**pipenv install**</i> to install dependencies
-3. Run <i>**python run.py**</i> to run project on local machine
-4. Run <i>**exit**</i> to exit out of the pipenv and <i>**pipenv shell**</i> to enter again
-
+2. Run <i>**pipenv install**</i> to install dependencies. Use this command for the first time only. Use this again when additional packages are installed or if there is something new in the Pipfile. 
+3. Run <i>**python run.py**</i> to run project on local machine with the Pipenv activated.
+4. Run <i>**exit**</i> to exit out of the pipenv and <i>**pipenv shell**</i> to enter again.
